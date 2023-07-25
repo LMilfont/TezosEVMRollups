@@ -20,21 +20,21 @@ There are two folders, one for Ether.js and the other for Web3.js
 
 # Dependencies installation for Ethers.js:
 
-npm install ethers@5.7.2
-npm install ethereumjs-tx
-npm install
-
-Then run with: "node transfer.js"
+npm install ethers@5.7.2  
+npm install ethereumjs-tx  
+npm install  
+  
+Then run with: "node transfer.js"  
 
 
 # Dependencies installation for Web3.js:
 
-npm install web3@4.0.3
-npm install solc
-npm install fs
+npm install web3@4.0.3  
+npm install solc  
+npm install fs  
 
-Then run with: "node transfer.js"
-               "node deployContract.js"
+Then run with: "node transfer.js"  
+               "node deployContract.js"  
 
 
 # Operation results:
