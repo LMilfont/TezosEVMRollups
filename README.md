@@ -6,7 +6,7 @@ Tezos EVM Rollups are intended to run Ethereum code in the Tezos blockchain infr
 # Requirements
 
 * NodeJS
-* Ethers.js
+* Ethers.js   (must be version 5.7.2)
 * Web3.js
 * Ethereumjs-tx
 
