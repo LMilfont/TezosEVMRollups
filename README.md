@@ -12,6 +12,8 @@ Tezos EVM Rollups are intended to run Ethereum code in the Tezos blockchain infr
 
 # Tezos Requirements
 
+Please first read Nomadic Labs' tutorial in order to be able to use Tezos EVM Rollups on Ghostnet: https://research-development.nomadic-labs.com/evm-tezos-testnet.html
+
 # Specifics
 
 There are two folders, one for Ether.js and the other for Web3.js
